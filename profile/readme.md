@@ -56,7 +56,7 @@ This page is meant to serve as a central depot for talk materials and slides. Th
 
 ## Collaborators: Adding materials
 Please consider uploading your lecture slides and any other relevant materials.<br>
-Below, we have included a copy of our how-to-contribute guide. If you're readding this here, congrats! You've already completed step 1. Read below to see more about how to upload your materials.
+Below, we have included a copy of our how-to-contribute guide. If you're reading this here, congrats! You've already completed step 1. Read below to see more about how to upload your materials.
 
 ![how-to slide1](https://raw.githubusercontent.com/arete-all-hands-2022/.github/main/profile/how-to-share-images/Material-Sharing-Guide1.png "how-to slide 1")
 
