@@ -55,4 +55,17 @@ This page is meant to serve as a central depot for talk materials and slides. Th
 | 2:00 - 4:00 PM | All | Further scientific and technical discussions |
 
 ## Collaborators: Adding materials
-Please consider uploading your lecture slides and any other relevant materials. We have prepared a PDF document containing detailed instructions for how to upload your materials to this page.
+Please consider uploading your lecture slides and any other relevant materials.<br>
+Below, we have included a copy of our how-to-contribute guide. If you're readding this here, congrats! You've already completed step 1. Read below to see more about how to upload your materials.
+
+![how-to slide1](https://raw.githubusercontent.com/arete-all-hands-2022/.github/main/profile/how-to-share-images/Material-Sharing-Guide1.png "how-to slide 1")
+
+![how-to slide2](https://raw.githubusercontent.com/arete-all-hands-2022/.github/main/profile/how-to-share-images/Material-Sharing-Guide2.png "how-to slide 2")
+
+![how-to slide3](https://raw.githubusercontent.com/arete-all-hands-2022/.github/main/profile/how-to-share-images/Material-Sharing-Guide3.png "how-to slide 3")
+
+![how-to slide4](https://raw.githubusercontent.com/arete-all-hands-2022/.github/main/profile/how-to-share-images/Material-Sharing-Guide4.png "how-to slide 4")
+
+![how-to slide5](https://raw.githubusercontent.com/arete-all-hands-2022/.github/main/profile/how-to-share-images/Material-Sharing-Guide5.png "how-to slide 5")
+
+![how-to slide6](https://raw.githubusercontent.com/arete-all-hands-2022/.github/main/profile/how-to-share-images/Material-Sharing-Guide6.png "how-to slide 6")
