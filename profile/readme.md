@@ -4,7 +4,7 @@ In the all-hands meeting, we will be combining in-person and remote collaboratio
 
 This page is meant to serve as a central depot for talk materials and slides. The repositories in the page are organized by conference day, with each day containing directories corresponding to a given lecture.
 
-## Schedule
+## Preliminary Schedule
 #### Day 1, May 17, 2022: Science
 | Time (ADT) | Presenter | Topic |
 |:---|:--:|:--:|
