@@ -11,8 +11,8 @@ This page is meant to serve as a central depot for talk materials and slides. Th
 | 10:30-11:00 AM | Breakfast |   |
 | 10:50 - 11:00 AM | Rob | Welcome and introduction |
 | 11:00 - 11:30 AM | Theo Gouliouris (V) | E. faecium in the UK |
-| 11:30 - 12:00 PM | Aaron White (V) | OneHealth at VIDO (needs a better title) |
-| 12:00 - 12:30 PM | Haley Sanderson (V) | The E. faecium Niche Paper (needs a better title) |
+| 11:30 - 12:00 PM | Aaron White (V) | Genomic comparisons between E. coli that cause disease and other strains found within the broiler farm environment |
+| 12:00 - 12:30 PM | Haley Sanderson (V) | Exploring the mobilome and resistome of Enterococcus faecium in a One Health context across two continents |
 | 12:30 - 1:00 PM | All | Open discussion |
 | 1:00 - 2:00 PM | Lunch |   |
 | 2:00 - 2:20 PM  | Amos | The Resistance Gene Identifier |
