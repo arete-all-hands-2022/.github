@@ -18,7 +18,7 @@ This page is meant to serve as a central depot for talk materials and slides. Th
 | 2:00 - 2:20 PM  | Amos | The Resistance Gene Identifier |
 | 2:20 - 2:40 PM | James (V) | MOB-suite |
 | 2:40 - 3:00 PM | Kristen Gray | IslandCompare |
-| 3:00 - 3:20 PM | Julia Lewandowski (V) | New ways of looking at gene order |
+| 3:00 - 3:20 PM | Julia Lewandowski (V) | Gene order based embeddings for identifying candidate divergent AMR genes |
 | 3:20 - 3:40 PM | Amjad Khan | Evolutionary dynamics of Tn916 |
 | 3:40 - 4:00 PM | Jee In Kim (V) | Predicting AMR phenotype from genotype in Enterococcus |
 | 4:00 - 4:15 PM | 15 minute break |   |
